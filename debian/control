@@ -1,0 +1,14 @@
+Source: rocket-repo
+Priority: extra
+Section: utils
+Maintainer: Jo Shields <directhex@apebox.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.3
+
+Package: rocket-repo
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: rocket-archive-keyring
+Description: Apt config for Stephenson's Rocket project
+ This package adds Stephenson's Rocket's stable package repository
+ to your system
