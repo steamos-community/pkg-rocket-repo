@@ -12,3 +12,11 @@ Recommends: rocket-archive-keyring
 Description: Apt config for Stephenson's Rocket project
  This package adds Stephenson's Rocket's stable package repository
  to your system
+
+Package: rocket-beta-repo
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: rocket-archive-keyring
+Description: Apt config for Stephenson's Rocket project (beta)
+ This package adds Stephenson's Rocket's beta package repository
+ to your system
