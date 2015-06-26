@@ -1,2 +1,2 @@
-deb http://download.stephensonsrocket.horse/steamos alchemist_beta main contrib non-free
-deb-src http://download.stephensonsrocket.horse/steamos alchemist_beta main contrib non-free
+deb http://download.stephensonsrocket.horse/steamos brewmaster_beta main contrib non-free
+deb-src http://download.stephensonsrocket.horse/steamos brewmaster_beta main contrib non-free

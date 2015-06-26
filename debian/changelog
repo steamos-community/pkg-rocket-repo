@@ -1,3 +1,9 @@
+rocket-repo (0.2.1) alchemist-beta; urgency=medium
+
+  * [eae875b] Fix beta repo package containing non-beta repo file
+
+ -- Jo Shields <directhex@apebox.org>  Sat, 28 Mar 2015 12:09:16 +0000
+
 rocket-repo (0.2) alchemist-beta; urgency=medium
 
   * [f619257] Add a second package with the beta repository manifest
