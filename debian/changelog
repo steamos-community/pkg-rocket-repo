@@ -1,3 +1,9 @@
+rocket-repo (0.3) brewmaster-beta; urgency=medium
+
+  * [072cc2b] Update repo links to brewmaster
+
+ -- Jo Shields <directhex@apebox.org>  Fri, 26 Jun 2015 14:46:18 +0100
+
 rocket-repo (0.2.1) alchemist-beta; urgency=medium
 
   * [eae875b] Fix beta repo package containing non-beta repo file
